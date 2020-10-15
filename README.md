@@ -1,24 +1,9 @@
 # gmaps-address-example
 
-## Project setup
-```
-npm install
-```
+![Screenshot](./docs/gmaps-address-example.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### This is an example of adding an address input to the [x5-gmaps](https://github.com/xon52/x5-gmaps) plugin for Vue.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### See the tutorial on [Medium](https://xon5.medium.com/vue-google-maps-and-autocomplete-e9bf0fa3c42e)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+It's meant for beginners learning Vue, people wanting an example of using the x5-gmaps plugin, and those wanting a starting point for their own COVID-19 Map.
